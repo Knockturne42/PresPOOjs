@@ -85,3 +85,15 @@
 // 	perso2.sante = perso2.sante - perso1.puissance;
 // 	return (perso2.sante);
 // }
+
+/*// Constructeur MonObjet
+function MonObjet(vie, xp) {
+	this.mvie = vie;
+	this.mxp = xp;
+    // Initialisation de l'objet
+    // ...
+}
+// Instanciation d'un objet à partir du constructeur
+var monObj = new MonObjet(100, 10);
+
+console.log(monObj);*/
